@@ -1,0 +1,13 @@
+{
+    "enabled": true,
+    "replaceList": {
+        "Job ID": {
+            "Skill ID with Floor(ID/10000)": {
+                "enabled": true,
+                "Description": "Just noted",
+                "replace2Skill": "Full skill id for replace",
+                "autoRepeat": false
+            }
+        }
+    }
+}

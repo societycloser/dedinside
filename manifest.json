@@ -1,0 +1,22 @@
+{
+    "files": {
+        "README.md": "c7026a5274373252e1c2edc5846833f56f841553671eaa84583c97e550a9a96e",
+        "class/0-warrior.tsv": "721757bdd7cdf946e3547a63e80054efbade6d63165cecd5475d5777b669d69f",
+        "class/1-lancer.tsv": "8c6fcf83217bdbfdd5bd806dc5e6fec2abb3f93678f3884c6a18ce8a976d887f",
+        "class/10-brawler.tsv": "1a94cff18108c85a45cd7b32c5a983eb476bf42781129bf8dedf002c87dc8e79",
+        "class/11-ninja.tsv": "05e28f876479ee0212208d2da3906e9dee46cc3a44d997e0f0479d7df2f060f9",
+        "class/12-valkyrie.tsv": "34365c02396712a110c9a36b342dca0ff8de0f8d5eac654320c31e1abddeaa09",
+        "class/2-slayer.tsv": "0606b5d1af830088d727de51b5528f58a75d731ca6e22d695707d133c181c7ea",
+        "class/3-berserker.tsv": "ec0109f176b5ac37cee3f28169454fa7243339c35f8107b787439e02a64588be",
+        "class/4-sorcerer.tsv": "1ec9d3c263a2f9b85133b93ccfb752eadbb9c0000ff40a5bb65348c28c40a258",
+        "class/5-archer.tsv": "23e3a7c8450d76cb1ba865a7271ede598d37a96c5e42454c09eee28e50478ea3",
+        "class/6-priest.tsv": "7f372900abb7641be4093f5cad2bdf6366496d8aa975a2d4f738aa1efe874530",
+        "class/7-mystic.tsv": "a58d8dce5700e5c1a9608660c299df18ea98ba7cd7802abd9cc9acf9c93ed5e6",
+        "class/8-reaper.tsv": "320fbd433fdb27dc2a677bf5f0ef61a003f506bd7316d5012397cb130f5a6829",
+        "class/9-gunner.tsv": "3c013980d06aa8d827bd2dd0d651fc7fa00a4e52f9be88dd6e967a705b75414b",
+        "config.json": "74db46db0d7691c51978e6f83220da962cf884cd13aaf921df276b4f7a73a850",
+        "config_edit.json": "2411f010a2de5f82219d3f015767c6433c1f15d6c7b8226e95bd7f7a306818a8",
+        "index.js": "5eef3082ebe9c711534e0f3094d5705e642d686dfc92eaee64e9fe71390c568b",
+        "module.json": "b4d2f3a5e6b85f00bc45e0aaf8d555d08748a7810277ae17a9810b91dd04fa17"
+    }
+}
